@@ -26,7 +26,7 @@
 	<a href="mailto:ilaydagtas7@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/ilaydagtas-9644F4?&style=flat&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
 </p>
 
-👩 My name is **İlayda Ağtaş**, I'm 23 years old, I'm from Turkey, graduated from Psycologhy and Translation and I'm HR Specalist at ROIPUBLIC. I love coding.
+👩 Hi! I'm **İlayda Ağtaş**, 24 years old and from Turkey. Graduated from Clinical Psychology at Erasmus University. Currently, I'm an HR Specialist at ROIPUBLIC. I love coding.
 
 <!-- GitHub Stats -->
 
